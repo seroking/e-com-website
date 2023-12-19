@@ -1,0 +1,5 @@
+#0050c2  Blue
+#27115a  darker Bluer
+#6b1562  dark pink
+#af196b  pink
+#f41d74  light pink
