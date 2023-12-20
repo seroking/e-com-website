@@ -76,7 +76,7 @@ p{
     margin-top: 70px;
 }
 
-.categorie{
+.categories{
     margin: 70px 0;
 }
 
@@ -93,4 +93,14 @@ p{
     margin: auto;
     padding-left: 25px;
     padding-right: 25px;
+}
+.col-4 {
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+
+.col-4 img{
+    max-width: 100%;
 }
